@@ -1,0 +1,2961 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" class="no-js">
+<head>
+    <meta property="og:site_name" content="Socialbakers.com">
+    <meta property="fb:pages" content="164929129743">
+    <meta property="fb:admins" content="1053518352,713863314">
+    <meta property="fb:app_id" content="111353382239227">
+    <meta property="og:type" content="company">
+    <meta property="og:title" content="What India fans like on Facebook">
+    <meta property="og:image" content="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/og-images/statistic/facebook/country-statistics/Statistic-Country-statistics-Facebook-India.png">
+    <meta property="og:url" content="https://www.socialbakers.com/statistics/facebook/pages/local/india/">
+    <meta property="og:description" content="Find out the most popular Facebook pages among fans in India. Is it Narendra Modi, Virat Kohli or Indian Cricket Team?">
+<meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>What India fans like on Facebook | Socialbakers</title>
+<meta name="application-name" content="Socialbakers.com">
+<meta name="msapplication-starturl" content="https://www.socialbakers.com">
+<meta name="msapplication-navbutton-color" content="#FFFFFF">
+<meta name="msapplication-tooltip" content="Social Media Marketing, Analytics &amp; Performance Tools">
+<meta name="msapplication-TileColor" content="#8C1E55">
+<meta name="msapplication-TileImage" content="/cdn/apple-touch-icon-152x152.png">
+<meta name="author" content="Socialbakers">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, minimum-scale=1">
+<meta name="description" content="Find out the most popular Facebook pages among fans in India. Is it Narendra Modi, Virat Kohli or Indian Cricket Team?">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@socialbakers">
+<meta name="twitter:creator" content="@socialbakers">
+<meta name="twitter:url" content="https://www.socialbakers.com/statistics/facebook/pages/local/india/">
+<meta name="twitter:title" content="What India fans like on Facebook">
+<meta name="twitter:description" content="Find out the most popular Facebook pages among fans in India. Is it Narendra Modi, Virat Kohli or Indian Cricket Team?">
+<meta name="twitter:image" content="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/og-images/statistic/facebook/country-statistics/Statistic-Country-statistics-Facebook-India.png">
+    <link href="https://cdn.socialbakers.com/www/static/build.3174083584/www/favicon.ico" rel="shortcut icon">
+    <link href="https://cdn.socialbakers.com/www/static/build.3174083584/www/favicon.ico" rel="icon">
+    <link href="/cdn/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" rel="icon">
+    <link href="https://www.socialbakers.com/statistics/facebook/pages/local/india/" rel="canonical">
+    <link href="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/css/style.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/css/rd-sync.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/css/print.css" media="print" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/js/src/vendor/visualWebsiteOptimizer.js"></script>
+	<script src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/js/dist/headerScripts/index.min.js"></script>
+</head>
+<body class=" statistics list color-green">
+<script src="https://use.typekit.net/anv2vfx.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<div id="smart-banner-wrapper" class="smart-app-wrapper"></div>
+
+<script type="text/javascript">
+	if(typeof new Array().forEach !== "function") {
+		document.write('<script type="text/javascript" src="https:\/\/cdn.socialbakers.com\/www\/static\/build.3174083584\/www\/media\/js\/dist\/vendor\/es5-shim.js"><\/script>');
+	}
+</script>
+
+	<script type="text/javascript">
+		var showMoreVersion = "withReplaceClass";
+	</script>
+<script src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/js/dist/config.js"></script>
+<script data-main="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/js/dist/load!platforms-list" src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/js/dist/vendor/require.js"></script>
+
+
+<script type="text/javascript">
+	var dataLayer = [{"aclId":"1457980","visitorLoginState":"Connected","internalUser":false}];
+	function trackBannerClick(internalCampaign, eventLabel)
+	{
+		eventLabel = eventLabel || window.location.href;
+		dataLayer.push({
+			'event': 'ga.event',
+			'eventCategory': 'Banner',
+			'eventAction': internalCampaign,
+			'eventLabel': eventLabel
+		});
+	}
+</script>
+
+
+
+<!-- Google Tag Manager -->
+<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CPVCV"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i)
+	{
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start': new Date().getTime(), event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-5CPVCV');</script>
+<!-- End Google Tag Manager -->
+
+<!-- start Mixpanel -->
+<script type="text/javascript">
+	(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+		for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+</script>
+
+<script>
+
+	sbMixpanel.init("0ce0729da999fb54c0d3331994edf226");
+
+		sbMixpanel.utils.identifyUser(1457980);
+
+	sbMixpanel.helper.setSuperProperties( ["WWW Home","Statistics","Facebook"] );
+	sbMixpanel.utils.trackPageview();
+</script>
+
+<!-- end Mixpanel -->
+
+<div class="social-media-news">
+    <div class="social-media-news__head">
+        <a class="social-media-news__close-btn" href="#"></a>
+    </div>
+    <div class="social-media-news__content">
+        <p class="heading-nw heading-nw--3">
+            Get the latest social media news delivered right to your inbox.
+        </p>
+        <a href="#" data-modal-open="socialMediaNewsSubscribeMarketoForm" class="btn-nw btn-nw--success btn-nw--lg">
+            Sign Up Now
+        </a>
+    </div>
+</div>
+<div class="page">
+<header class="header headroom animated">
+                <div class="main-navigation">
+
+<div class="mobile-header">
+    <a href="#"
+       class="mobile-header__link mobile-header__trigger"
+       data-navigation-trigger>Menu
+    </a>
+
+    <a
+            onclick="_gaq.push(['_trackEvent', 'homepage - logo', this.href, location.href]);"
+            class="mobile-header__link mobile-header__logo" href="/">
+        <img src="https://cdn.socialbakers.com/www/storage/www/logos/socialbakers-hat.svg"
+             alt="Socialbakers logo">
+    </a>
+
+
+<span class="mobile-header__link main-navigation__user-icon-holder">
+
+    <a href="#" class="main-navigation__user-arrow mobile-header__link--desk">
+        <img class="main-navigation__user-image"
+             src="https://cdn.socialbakers.com/account/no_user.png"
+             alt="Your Facebook profile picture"
+             data-user-image
+       >
+    </a>
+
+    <span class="main-navigation__user-arrow mobile-header__link--mob"
+          data-user-panel-trigger>
+        <img class="main-navigation__user-image"
+             src="https://cdn.socialbakers.com/account/no_user.png"
+             alt="Your Facebook profile picture"
+             data-user-image
+       >
+    </span>
+
+            <a href="#" class="main-navigation__toggle-user" data-user-panel-trigger data-user-toggle>Close</a>
+
+    <div data-user-panel-content
+         class="user-panel-nw">
+        <div class="user-panel-nw__inner">
+
+            <a class="btn-nw btn-nw--primary btn-nw--block"
+               href="https://suite.socialbakers.com/">Login to Socialbakers Suite</a>
+
+
+            <hr class="hr-nw">
+
+
+            <ul class="user-panel-nw__list">
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="/suggestions/">My Suggestions</a>
+                </li>
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="/suggester"
+                                                        data-gaevent='{"category":"monitor-new","action":"button"}'
+                    >Monitor New</a></li>
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="https://account.socialbakers.com/"
+                                                        target="_blank">My Profile</a></li>
+            </ul>
+
+        </div>
+        <div class="bg-grey">
+            <a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+               href="/sign/logout?backlink=https%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ffacebook%2Fpages%2Flocal%2Findia%2F&amp;ref=www-fe-topbar&amp;token=6af6f27b">Logout</a>
+
+        </div>
+
+    </div>
+
+</span>
+
+
+                            
+                                
+                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                   
+
+</div>
+        <div class="main-navigation__nav-bar" data-navigation-bar>
+            <div class="main-navigation__logo">
+                <a
+                    onclick="_gaq.push(['_trackEvent', 'homepage - logo', this.href, location.href]);" href="/">
+                    <img class="wide"
+                         src="https://cdn.socialbakers.com/www/storage/www/logos/socialbakers-normal.svg"
+                         alt="Socialbakers logo">
+                    <img class="lg"
+                         src="https://cdn.socialbakers.com/www/storage/www/logos/socialbakers-hat.svg"
+                         alt="Socialbakers logo">
+                </a>
+            </div>
+            <ul class="main-navigation__list">
+
+<li class="main-navigation__item  main-navigation__item--has-submenu">
+    <a class="main-navigation__link main-navigation__link--desk"
+       href="/suite">
+        Platform
+    </a>
+    <a class="main-navigation__link main-navigation__link--mob"
+       href="/suite"
+       data-has-submenu>
+        Platform
+    </a>
+    <ul class="main-navigation-submenu" data-submenu>
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link" href="/suite">
+                <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/suite_36.svg"
+                     alt="socialbakers product">
+                <span class="main-navigation-submenu__title">Social Media Marketing Suite</span>
+                <span class="main-navigation-submenu__perex">
+                    Analyze social media data, measure performance, execute content strategy, and nurture social communities in one place</span>
+            </a>
+        </li>
+
+                        <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link" href="/suite">
+                <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/suite_36.svg"
+                     alt="socialbakers product">
+                <span class="main-navigation-submenu__title">Social Media Marketing Suite</span>
+                <span class="main-navigation-submenu__perex">
+                    Analyze social media data, measure performance, execute content strategy, and nurture social communities in one place</span>
+            </a>
+        </li>
+
+                <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link"
+               href="/suite/social-media-analytics">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/measure_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Measure & Benchmark</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                    Gain competitive insights and benchmark your performance on social media
+                </span>
+            </a>
+        </li>
+
+                <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link"
+               href="/suite/optimize-social-performance">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/optimize_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Optimize Performance</span>
+								</span>
+                <span class="main-navigation-submenu__perex">Use AI to learn what to promote, when to publish, and how to optimize the budget</span>
+            </a>
+        </li>
+
+
+                <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link"
+               href="/suite/data-integrations">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/visualize_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Visualize &amp; Analyze</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                Integrate social, web and business data in actionable dashboards
+                </span>
+            </a>
+        </li>
+
+                <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link"
+               href="/suite/social-media-content">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/create_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Create &amp; Publish Content</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                Leverage AI to get recommendations and inspiration for great content
+                </span>
+            </a>
+        </li>
+
+
+                <li class="main-navigation-submenu__item hidden--lg">
+            <a class="main-navigation-submenu__link"
+               href="/suite/community-management">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/nurture-36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Nurture Communities</span>
+								</span>
+                <span class="main-navigation-submenu__perex">Interact directly with audiences and provide centralized customer care</span>
+            </a>
+        </li>
+
+
+        
+
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link"
+               href="/suite/social-media-analytics">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/measure_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Measure & Benchmark</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                    Gain competitive insights and benchmark your performance on social media
+                </span>
+            </a>
+        </li>
+
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link"
+               href="/suite/social-media-content">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/create_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Create &amp; Publish Content</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                Leverage AI to get recommendations and inspiration for great content
+                </span>
+            </a>
+        </li>
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link"
+               href="/suite/optimize-social-performance">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/optimize_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Optimize Performance</span>
+								</span>
+                <span class="main-navigation-submenu__perex">Use AI to learn what to promote, when to publish, and how to optimize the budget</span>
+            </a>
+        </li>
+
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link"
+               href="/suite/community-management">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/nurture-36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Nurture Communities</span>
+								</span>
+                <span class="main-navigation-submenu__perex">Interact directly with audiences and provide centralized customer care</span>
+            </a>
+        </li>
+
+                <li class="main-navigation-submenu__item hidden--m">
+            <a class="main-navigation-submenu__link"
+               href="/suite/data-integrations">
+								<span class="main-navigation-submenu__link-header">
+									<img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/icons/visualize_36.svg"
+                                         alt="socialbakers product">
+									<span class="main-navigation-submenu__title">Visualize &amp; Analyze</span>
+								</span>
+                <span class="main-navigation-submenu__perex">
+                Integrate social, web and business data in actionable dashboards
+                </span>
+            </a>
+        </li>
+    </ul>
+    <div class="main-navigation-item__border"></div>
+</li>
+<li class="main-navigation__item  main-navigation__item--has-submenu main-navigation__item--no-submenu-desk">
+    <a class="main-navigation__link main-navigation__link--desk"
+       href="/free-social-tools">
+        Social Media Tools
+    </a>
+    <a class="main-navigation__link main-navigation__link--mob"
+       href="/free-social-tools"
+       data-has-submenu>
+        Social Media Tools
+    </a>
+    <ul class="main-navigation-submenu" data-submenu>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/free-social-tools">
+                <span>All Social Tools</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/free-social-tools/know-your-numbers">
+                <span>Facebook Benchmarking Tool</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="https://www.socialbakers.com/master-paid-content">
+                <span>Facebook Post Analysis Tool</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="https://www.socialbakers.com/free-tools/tracker/">
+                <span>Instagram Analytics Tool</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/free-social-tools/social-content-inspiration/">
+                <span>Social Content Inspiration Tool</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/free-social-tools/socially-devoted/">
+                <span>Social Customer Care Tool</span>
+            </a>
+        </li>
+    </ul>
+    <div class="main-navigation-item__border"></div>
+</li>
+<li class="main-navigation__item  main-navigation__item--has-submenu main-navigation__item--no-submenu-desk">
+    <a class="main-navigation__link main-navigation__link--desk"
+       href="/social-media-content">
+        News &amp; Insights
+    </a>
+    <a class="main-navigation__link main-navigation__link--mob"
+       href="/social-media-content"
+       data-has-submenu>
+        News &amp; Insights
+    </a>
+    <ul class="main-navigation-submenu" data-submenu>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/social-media-content">
+                <span>All Content</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/social-media-content/studies/">
+                <span>Studies</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/social-media-content/client-stories/">
+                <span>Success Stories</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/social-media-content/social-media-minute/">
+                <span>Social Media Minute</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/blog/">
+                <span>Socialbakers Blog</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/company/for-press/releases/">
+                <span>Press Releases</span>
+            </a>
+        </li>
+    </ul>
+    <div class="main-navigation-item__border"></div>
+</li>
+<li class="main-navigation__item main-navigation__item--active main-navigation__item--has-submenu main-navigation__item--no-submenu-desk">
+    <a class="main-navigation__link main-navigation__link--desk"
+       href="/statistics/">
+        Statistics
+    </a>
+    <a class="main-navigation__link main-navigation__link--mob"
+       href="/statistics/"
+       data-has-submenu>
+        Statistics
+    </a>
+    <ul class="main-navigation-submenu" data-submenu>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/statistics/">
+                <span>Stats Overview</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/statistics/facebook/">
+                <span>Facebook Stats</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/statistics/twitter/">
+                <span>Twitter Stats</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/statistics/youtube/">
+                <span>YouTube Stats</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/resources/reports/">
+                <span>Regional Social Media Reports</span>
+            </a>
+        </li>
+    </ul>
+    <div class="main-navigation-item__border"></div>
+</li>
+<li class="main-navigation__item  main-navigation__item--has-submenu main-navigation__item--no-submenu-desk">
+    <a class="main-navigation__link main-navigation__link--desk"
+       href="/company/contact-us">
+        Company
+    </a>
+    <a class="main-navigation__link main-navigation__link--mob"
+       href="/company/contact-us"
+       data-has-submenu>
+        Company
+    </a>
+    <ul class="main-navigation-submenu" data-submenu>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/company/contact-us">
+                <span>Contact Socialbakers</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/company/about/leadership">
+                <span>Leadership</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/company/media-and-press">
+                <span>Media &amp; Press</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="https://support.socialbakers.com">
+                <span>Online Education</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/resources/wishlist/">
+                <span>Customers' WishList</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="/company/careers">
+                <span>Careers</span>
+            </a>
+        </li>
+        <li class="main-navigation-submenu__item">
+            <a class="main-navigation-submenu__link"
+               href="https://www.socialbakers.com/events">
+                <span>Events</span>
+            </a>
+        </li>
+    </ul>
+    <div class="main-navigation-item__border"></div>
+</li>
+            </ul>
+
+<div class="main-navigation__buttons">
+    <div class="mobile-hidden">
+
+<span class="mobile-header__link main-navigation__user-icon-holder">
+
+    <a href="#" class="main-navigation__user-arrow mobile-header__link--desk">
+        <img class="main-navigation__user-image"
+             src="https://cdn.socialbakers.com/account/no_user.png"
+             alt="Your Facebook profile picture"
+             data-user-image
+       >
+    </a>
+
+    <span class="main-navigation__user-arrow mobile-header__link--mob"
+          data-user-panel-trigger>
+        <img class="main-navigation__user-image"
+             src="https://cdn.socialbakers.com/account/no_user.png"
+             alt="Your Facebook profile picture"
+             data-user-image
+       >
+    </span>
+
+            <a href="#" class="main-navigation__toggle-user" data-user-panel-trigger data-user-toggle>Close</a>
+
+    <div data-user-panel-content
+         class="user-panel-nw">
+        <div class="user-panel-nw__inner">
+
+            <a class="btn-nw btn-nw--primary btn-nw--block"
+               href="https://suite.socialbakers.com/">Login to Socialbakers Suite</a>
+
+
+            <hr class="hr-nw">
+
+
+            <ul class="user-panel-nw__list">
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="/suggestions/">My Suggestions</a>
+                </li>
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="/suggester"
+                                                        data-gaevent='{"category":"monitor-new","action":"button"}'
+                    >Monitor New</a></li>
+                <li class="user-panel-nw__list-item"><a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+                                                        href="https://account.socialbakers.com/"
+                                                        target="_blank">My Profile</a></li>
+            </ul>
+
+        </div>
+        <div class="bg-grey">
+            <a class="p-nw p-nw--sm text-nw--muted user-panel-nw__link"
+               href="/sign/logout?backlink=https%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ffacebook%2Fpages%2Flocal%2Findia%2F&amp;ref=www-fe-topbar&amp;token=6af6f27b">Logout</a>
+
+        </div>
+
+    </div>
+
+</span>
+
+
+                            
+                                
+                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                   
+    </div>
+        <a href="/suite/buy"
+       onclick="sbMixpanel.utils.trackButtonClick(this.dataset.buttonLabel, 'Global Navigation');"
+       data-button-label="Buy" class="btn-nw btn-nw--success">Buy
+    </a>
+    <a href="/try"
+       onclick="sbMixpanel.utils.trackButtonClick(this.dataset.buttonLabel, 'Global Navigation');"
+       data-button-label="Try" class="btn-nw btn-nw--default">Try for Free
+    </a>
+</div>
+        </div>
+    </div>
+</header>	<div class="content content--subpages">
+
+		<!--<h1 n:class="isset($titleClass)?$titleClass"><span>Facebook stats for fans in India</span></h1>-->
+
+
+		
+		
+		
+		
+
+
+		<div class="in">
+
+
+
+			
+			
+
+			
+			
+
+
+
+<div class="aside-menu aside-list ">
+	<ul>
+		<li>
+			<a class="home "
+			   href="/statistics/"><i>ALL</i></a>
+		</li>
+		<li>
+			<a
+					href="/statistics/facebook/" class="fb act"><i>Facebook</i></a>
+		<ul class="aside-menu-hover">
+				<li><a class="overview "
+					   href="/statistics/facebook/">Overview</a>
+				</li>
+				<li><a class="all-pages act"
+					   href="/statistics/facebook/pages/total/">All Pages<i class="socialbakers-icons-before" data-icons-before="&#xe64a;"></i></a>
+		<ul class="aside-menu-hover">
+				<li><a class="brands "
+					   href="/statistics/facebook/pages/total/brands/">Brands<i class="socialbakers-icons-before" data-icons-before="&#xe632;"></i></a>
+				</li>
+				<li><a class="celebrities "
+					   href="/statistics/facebook/pages/total/celebrities/">Celebrities<i class="socialbakers-icons-before" data-icons-before="&#xe633;"></i></a>
+				</li>
+				<li><a class="community "
+					   href="/statistics/facebook/pages/total/community/">Community<i class="socialbakers-icons-before" data-icons-before="&#xe635;"></i></a>
+				</li>
+				<li><a class="entertainment "
+					   href="/statistics/facebook/pages/total/entertainment/">Entertainment<i class="socialbakers-icons-before" data-icons-before="&#xe63b;"></i></a>
+				</li>
+				<li><a class="media "
+					   href="/statistics/facebook/pages/total/media/">Media<i class="socialbakers-icons-before" data-icons-before="&#xe648;"></i></a>
+				</li>
+				<li><a class="place "
+					   href="/statistics/facebook/pages/total/place/">Place<i class="socialbakers-icons-before" data-icons-before="&#xe64c;"></i></a>
+				</li>
+				<li><a class="society "
+					   href="/statistics/facebook/pages/total/society/">Society<i class="socialbakers-icons-before" data-icons-before="&#xe659;"></i></a>
+				</li>
+				<li><a class="sport "
+					   href="/statistics/facebook/pages/total/sport/">Sport<i class="socialbakers-icons-before" data-icons-before="&#xe65a;"></i></a>
+				</li>
+		</ul>
+				</li>
+		</ul>
+		</li>
+		<li>
+			<a
+					href="/statistics/twitter/" class="tw"><i>Twitter</i></a>
+		</li>
+		<li>
+			<a
+					href="/statistics/youtube/" class="yt"><i>YouTube</i></a>
+		</li>
+	</ul>
+	<i class="aside-hover"></i>
+</div>
+			<section class="section-920">
+
+
+
+	<div class="page-head">
+		<h1 class="heading-nw heading-nw--2"><span>Facebook stats for fans in India</span></h1>
+
+<a href="#" class="share p-nw p-nw--sm text-nw--muted">
+	<span>
+		<i></i>
+	</span>
+	<div class="total-count">Share</div>
+</a>
+<ul data="/statistics/facebook/pages/local/india/" class="share-list">
+	<li class="fb"><a href="https://www.facebook.com/sharer.php?u=" class="fb"
+					  data-gaevent="{'category': 'share', 'action': 'button', 'label': 'facebook'}" utm-string="%3Futm_source%3Dfb%26utm_medium%3Dorganic"><i></i> <span
+					class="share-count"></span> <strong class="p-nw p-nw--sm text-nw--muted">Share</strong></a></li>
+	<li class="tw"><a
+				href="https://twitter.com/share?text=Check+out+the+most+popular+Facebook+Pages+in+India.&amp;url="
+				class="tw" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'twitter'}" utm-string="%3Futm_source%3Dtw%26utm_medium%3Dorganic"><i></i> <span
+					class="share-count"></span> <strong class="p-nw p-nw--sm text-nw--muted">Tweet</strong></a></li>
+	<li class="linkedin"><a
+				href="https://www.linkedin.com/shareArticle?mini=true&amp;text=Check+out+the+most+popular+Facebook+Pages+in+India.&amp;url="
+				class="linked" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'linkedin'}" utm-string="%3Futm_source%3Dli%26utm_medium%3Dorganic"><i></i>
+			<span class="share-count"></span> <strong class="p-nw p-nw--sm text-nw--muted">Share</strong></a></li>
+</ul>	</div>
+
+<div class="reports-list-brands three-items">
+	<article class="brands">
+<div class="multi-dropdown">
+	<a href="" class="btn-multi-dropdown">Select Industry</a>
+
+	<div class="breadcrumb-multi-dropdown">
+		<ul data-all-industries="All Industries"></ul>
+		<a href="" class="back">Back</a>
+	</div>
+
+	<div class="content-multi-dropdown">
+		<div class="multi-dropdown-list-1">
+			<ul class="multi-dropdown-list">
+				
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/"
+						   class="ico-celebrities arrow-right "
+						   data-tag="celebrities"
+						   rel="dropdown-celebrities">
+
+							Celebrities
+							<i class="socialbakers-icons-before" data-icons-before="&#xe633;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-celebrities multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/celebrities/"
+									   class=""
+									   data-tag="celebrities">
+										
+										All Celebrities
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/actor/"
+						   class=" "
+						   data-tag="actor"
+						   >
+
+							Actor
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/artist/"
+						   class=" "
+						   data-tag="artist"
+						   >
+
+							Artist
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/broadcast-star/"
+						   class=" "
+						   data-tag="broadcast-star"
+						   >
+
+							Broadcast Star
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/disc-jockey/"
+						   class=" "
+						   data-tag="disc-jockey"
+						   >
+
+							Disc Jockey
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/fashion-star/"
+						   class=" "
+						   data-tag="fashion-star"
+						   >
+
+							Fashion Star
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/musician/"
+						   class=" "
+						   data-tag="musician"
+						   >
+
+							Musician
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/singer/"
+						   class=" "
+						   data-tag="singer"
+						   >
+
+							Singer
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/sport-star/"
+						   class=" "
+						   data-tag="sport-star"
+						   >
+
+							Sport Star
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/celebrities/writer/"
+						   class=" "
+						   data-tag="writer"
+						   >
+
+							Writer
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/"
+						   class="ico-community arrow-right "
+						   data-tag="community"
+						   rel="dropdown-community">
+
+							Community
+							<i class="socialbakers-icons-before" data-icons-before="&#xe635;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-community multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/community/"
+									   class=""
+									   data-tag="community">
+										
+										All Community
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/auto-interest/"
+						   class=" "
+						   data-tag="auto-interest"
+						   >
+
+							Auto Interest
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/culture/"
+						   class=" "
+						   data-tag="culture"
+						   >
+
+							Culture
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/erotic/"
+						   class=" "
+						   data-tag="erotic"
+						   >
+
+							Erotic
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/film/"
+						   class=" "
+						   data-tag="film"
+						   >
+
+							Film
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/fun/"
+						   class=" "
+						   data-tag="fun"
+						   >
+
+							Fun
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/hobbies/"
+						   class=" "
+						   data-tag="hobbies"
+						   >
+
+							Hobbies
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/life-style/"
+						   class=" "
+						   data-tag="life-style"
+						   >
+
+							Life Style
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/music/"
+						   class=" "
+						   data-tag="music"
+						   >
+
+							Music
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/personal/"
+						   class=" "
+						   data-tag="personal"
+						   >
+
+							Personal
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/political/"
+						   class=" "
+						   data-tag="political"
+						   >
+
+							Political
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/religion/"
+						   class=" "
+						   data-tag="religion"
+						   >
+
+							Religion
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/sport-interest/"
+						   class=" "
+						   data-tag="sport-interest"
+						   >
+
+							Sport Interest
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/community/wikipedia/"
+						   class=" "
+						   data-tag="wikipedia"
+						   >
+
+							Wikipedia
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/"
+						   class="ico-entertainment arrow-right "
+						   data-tag="entertainment"
+						   rel="dropdown-entertainment">
+
+							Entertainment
+							<i class="socialbakers-icons-before" data-icons-before="&#xe63b;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-entertainment multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/entertainment/"
+									   class=""
+									   data-tag="entertainment">
+										
+										All Entertainment
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/apps/"
+						   class=" "
+						   data-tag="apps"
+						   >
+
+							Apps
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/books/"
+						   class=" "
+						   data-tag="books"
+						   >
+
+							Books
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/broadcast-show/"
+						   class=" "
+						   data-tag="broadcast-show"
+						   >
+
+							Broadcast Show
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/computer-game/"
+						   class=" "
+						   data-tag="computer-game"
+						   >
+
+							Computer Game
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/event/"
+						   class=" "
+						   data-tag="event"
+						   >
+
+							Event
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/fictional-character/"
+						   class=" "
+						   data-tag="fictional-character"
+						   >
+
+							Fictional Character
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/film-industry/"
+						   class=" "
+						   data-tag="film-industry"
+						   >
+
+							Film Industry
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/music-industry/"
+						   class=" "
+						   data-tag="music-industry"
+						   >
+
+							Music Industry
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/entertainment/online-show/"
+						   class=" "
+						   data-tag="online-show"
+						   >
+
+							Online Show
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/"
+						   class="ico-media arrow-right "
+						   data-tag="media"
+						   rel="dropdown-media">
+
+							Media
+							<i class="socialbakers-icons-before" data-icons-before="&#xe648;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-media multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/media/"
+									   class=""
+									   data-tag="media">
+										
+										All Media
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/blog/"
+						   class=" "
+						   data-tag="blog"
+						   >
+
+							Blog
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/daily-news/"
+						   class=" "
+						   data-tag="daily-news"
+						   >
+
+							Daily News
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/magazines-journals/"
+						   class=" arrow-right "
+						   data-tag="magazines-journals"
+						   rel="dropdown-magazines-journals">
+
+							Magazines &amp; Journals
+							
+						</a>
+						<div
+								class="multi-dropdown-list-3 dropdown-magazines-journals multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/media/magazines-journals/"
+									   class=""
+									   data-tag="magazines-journals">
+										
+										All Magazines &amp; Journals
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/magazines-journals/entertainment-news/"
+						   class=" "
+						   data-tag="entertainment-news"
+						   >
+
+							Entertainment News
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/media-house/"
+						   class=" "
+						   data-tag="media-house"
+						   >
+
+							Media House
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/press-agencies/"
+						   class=" "
+						   data-tag="press-agencies"
+						   >
+
+							Press agencies
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/radio-media/"
+						   class=" "
+						   data-tag="radio-media"
+						   >
+
+							Radio Media
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/social-media/"
+						   class=" "
+						   data-tag="social-media"
+						   >
+
+							Social Media
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/sports-media/"
+						   class=" "
+						   data-tag="sports-media"
+						   >
+
+							Sports Media
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/tv-channels/"
+						   class=" "
+						   data-tag="tv-channels"
+						   >
+
+							TV Channels
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/media/web-portal/"
+						   class=" "
+						   data-tag="web-portal"
+						   >
+
+							Web Portal
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/"
+						   class="ico-place arrow-right "
+						   data-tag="place"
+						   rel="dropdown-place">
+
+							Place
+							<i class="socialbakers-icons-before" data-icons-before="&#xe64c;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-place multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/place/"
+									   class=""
+									   data-tag="place">
+										
+										All Place
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/airport/"
+						   class=" "
+						   data-tag="airport"
+						   >
+
+							Airport
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/city/"
+						   class=" "
+						   data-tag="city"
+						   >
+
+							City
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/country/"
+						   class=" "
+						   data-tag="country"
+						   >
+
+							Country
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/cultural-center/"
+						   class=" "
+						   data-tag="cultural-center"
+						   >
+
+							Cultural center
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/medical-center/"
+						   class=" "
+						   data-tag="medical-center"
+						   >
+
+							Medical Center
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/night-life/"
+						   class=" "
+						   data-tag="night-life"
+						   >
+
+							Night Life
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/restaurant-cafe/"
+						   class=" "
+						   data-tag="restaurant-cafe"
+						   >
+
+							Restaurant &amp; Cafe
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/place/shopping-center/"
+						   class=" "
+						   data-tag="shopping-center"
+						   >
+
+							Shopping center
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/"
+						   class="ico-society arrow-right "
+						   data-tag="society"
+						   rel="dropdown-society">
+
+							Society
+							<i class="socialbakers-icons-before" data-icons-before="&#xe659;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-society multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/society/"
+									   class=""
+									   data-tag="society">
+										
+										All Society
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/csr/"
+						   class=" "
+						   data-tag="csr"
+						   >
+
+							CSR
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/conference/"
+						   class=" "
+						   data-tag="conference"
+						   >
+
+							Conference
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/education/"
+						   class=" arrow-right "
+						   data-tag="education"
+						   rel="dropdown-education">
+
+							Education
+							
+						</a>
+						<div
+								class="multi-dropdown-list-3 dropdown-education multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/society/education/"
+									   class=""
+									   data-tag="education">
+										
+										All Education
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/education/university/"
+						   class=" "
+						   data-tag="university"
+						   >
+
+							University
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/governmental/"
+						   class=" "
+						   data-tag="governmental"
+						   >
+
+							Governmental
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/ngo/"
+						   class=" "
+						   data-tag="ngo"
+						   >
+
+							NGO
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/politics/"
+						   class=" "
+						   data-tag="politics"
+						   >
+
+							Politics
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/professional-association/"
+						   class=" "
+						   data-tag="professional-association"
+						   >
+
+							Professional Association
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/society/science/"
+						   class=" "
+						   data-tag="science"
+						   >
+
+							Science
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+				<li>
+
+						<a href="/statistics/facebook/pages/local/india/sport/"
+						   class="ico-sport arrow-right "
+						   data-tag="sport"
+						   rel="dropdown-sport">
+
+							Sport
+							<i class="socialbakers-icons-before" data-icons-before="&#xe65a;"></i>
+						</a>
+
+						<div
+								class="multi-dropdown-list-2 dropdown-sport multi-dropdown-list-div">
+							<ul class="multi-dropdown-list">
+								<li class="multi-dropdown-all">
+									<a href="/statistics/facebook/pages/local/india/sport/"
+									   class=""
+									   data-tag="sport">
+										
+										All Sport
+									</a>
+								</li>
+
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/sport/sport-club/"
+						   class=" "
+						   data-tag="sport-club"
+						   >
+
+							Sport Club
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/sport/sport-event/"
+						   class=" "
+						   data-tag="sport-event"
+						   >
+
+							Sport Event
+							
+						</a>
+								</li>
+								<li>
+
+						<a href="/statistics/facebook/pages/local/india/sport/sport-organization/"
+						   class=" "
+						   data-tag="sport-organization"
+						   >
+
+							Sport Organization
+							
+						</a>
+								</li>
+
+							</ul>
+						</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+</div>		<img src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/reports/list/default.png" alt=""
+			 onerror="this.src=&quot;https:\/\/cdn.socialbakers.com\/www\/static\/build.3174083584\/www\/media\/img\/reports\/list\/brands.png&quot;">
+	</article>
+
+	<span class="hr hr-arrow">
+		<i>in</i>
+	</span>
+
+	<article class="country active">
+<form action="/statistics/facebook/pages/local/india/?do=tagsCloud-countries-form-submit" method="post" id="frm-tagsCloud-countries-form" data-gaevent="{&quot;category&quot;:&quot;selects&quot;,&quot;action&quot;:&quot;country&quot;,&quot;label&quot;:&quot;facebook&quot;}" class=" ga-event">	<select class="chzn-select" name="item" id="frmform-item" data-nette-empty-value=""><option value="">Select Country</option><option value="afghanistan">Afghanistan</option><option value="aland-islands">Aland Islands</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american-samoa">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica" disabled>Antarctica</option><option value="antigua-and-barbuda">Antigua and Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bonaire-saint-eustatius-and-saba">Bonaire, Saint Eustatius and Saba </option><option value="bosnia-and-herzegovina">Bosnia and Herzegovina</option><option value="botswana">Botswana</option><option value="bouvet-island">Bouvet Island</option><option value="brazil">Brazil</option><option value="british-indian-ocean-territory">British Indian Ocean Territory</option><option value="british-virgin-islands">British Virgin Islands</option><option value="brunei">Brunei</option><option value="bulgaria">Bulgaria</option><option value="burkina-faso">Burkina Faso</option><option value="burundi">Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape-verde">Cape Verde</option><option value="cayman-islands">Cayman Islands</option><option value="central-african-republic">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="christmas-island" disabled>Christmas Island</option><option value="cocos-islands">Cocos Islands</option><option value="colombia">Colombia</option><option value="comoros">Comoros</option><option value="cook-islands" disabled>Cook Islands</option><option value="costa-rica">Costa Rica</option><option value="croatia">Croatia</option><option value="cuba">Cuba</option><option value="curacao">Curacao</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="democratic-republic-of-the-congo">Democratic Republic of the Congo</option><option value="denmark">Denmark</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican-republic">Dominican Republic</option><option value="east-timor">East Timor</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="equatorial-guinea">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="falkland-islands" disabled>Falkland Islands</option><option value="faroe-islands">Faroe Islands</option><option value="fiji">Fiji</option><option value="finland">Finland</option><option value="france">France</option><option value="french-guiana">French Guiana</option><option value="french-polynesia">French Polynesia</option><option value="french-southern-territories" disabled>French Southern Territories</option><option value="global">GLOBAL</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="gibraltar">Gibraltar</option><option value="greece">Greece</option><option value="greenland">Greenland</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guernsey" disabled>Guernsey</option><option value="guinea">Guinea</option><option value="guinea-bissau">Guinea-Bissau</option><option value="guyana">Guyana</option><option value="haiti">Haiti</option><option value="heard-island-and-mcdonald-islands" disabled>Heard Island and McDonald Islands</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india" selected>India</option><option value="indonesia">Indonesia</option><option value="iran">Iran</option><option value="iraq">Iraq</option><option value="ireland">Ireland</option><option value="isle-of-man">Isle of Man</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="ivory-coast">Ivory Coast</option><option value="jamaica">Jamaica</option><option value="japan">Japan</option><option value="jersey">Jersey</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="kiribati">Kiribati</option><option value="kosovo">Kosovo</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho">Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macao">Macao</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall-islands">Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mayotte">Mayotte</option><option value="mexico">Mexico</option><option value="micronesia">Micronesia</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montenegro">Montenegro</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="mozambique">Mozambique</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nauru">Nauru</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-caledonia">New Caledonia</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue">Niue</option><option value="norfolk-island" disabled>Norfolk Island</option><option value="north-korea">North Korea</option><option value="northern-mariana-islands">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau">Palau</option><option value="palestinian-territory">Palestinian Territory</option><option value="panama">Panama</option><option value="papua-new-guinea">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="pitcairn" disabled>Pitcairn</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="republic-of-the-congo">Republic of the Congo</option><option value="reunion">Reunion</option><option value="romania">Romania</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="saint-barthelemy">Saint Barthelemy</option><option value="saint-helena">Saint Helena</option><option value="saint-kitts-and-nevis">Saint Kitts and Nevis</option><option value="saint-lucia">Saint Lucia</option><option value="saint-martin">Saint Martin</option><option value="saint-pierre-and-miquelon" disabled>Saint Pierre and Miquelon</option><option value="saint-vincent-and-the-grenadines">Saint Vincent and the Grenadines</option><option value="samoa">Samoa</option><option value="san-marino">San Marino</option><option value="sao-tome-and-principe">Sao Tome and Principe</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia">Serbia</option><option value="seychelles">Seychelles</option><option value="sierra-leone">Sierra Leone</option><option value="singapore">Singapore</option><option value="sint-maarten">Sint Maarten</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon-islands">Solomon Islands</option><option value="somalia">Somalia</option><option value="south-africa">South Africa</option><option value="south-georgia-and-the-south-sandwich-islands">South Georgia and the South Sandwich Islands</option><option value="south-korea">South Korea</option><option value="south-sudan">South Sudan</option><option value="spain">Spain</option><option value="sri-lanka">Sri Lanka</option><option value="sudan">Sudan</option><option value="suriname">Suriname</option><option value="svalbard-and-jan-mayen">Svalbard and Jan Mayen</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tokelau">Tokelau</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad and Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan">Turkmenistan</option><option value="turks-and-caicos-islands">Turks and Caicos Islands</option><option value="tuvalu">Tuvalu</option><option value="u-s-virgin-islands">U.S. Virgin Islands</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="united-states">United States</option><option value="united-states-minor-outlying-islands">United States Minor Outlying Islands</option><option value="uruguay">Uruguay</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="vatican">Vatican</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis-and-futuna" disabled>Wallis and Futuna</option><option value="western-sahara">Western Sahara</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option></select>
+<div><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]--></div>
+</form>
+		<img src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/reports-list-country-brands.png" alt="">
+			</article>
+			<span class="hr hr-arrow by">
+		<i>by</i>
+	</span>
+
+		<article class="global-local ">
+<form action="/statistics/facebook/pages/local/india/?do=tagsCloud-totalLocalSwitcher-form-submit" method="post" id="frm-tagsCloud-totalLocalSwitcher-form">	<input type="radio" name="totalLocal" id="frmform-totalLocal-0" value="total"><label for="frmform-totalLocal-0">Total Fans</label><br><input type="radio" name="totalLocal" id="frmform-totalLocal-1" checked value="local"><label for="frmform-totalLocal-1">Fans from Chosen Country</label><br>
+	<span id="marketo-login-meta" data-redirect-url="/statistics/facebook/pages/total/india/"></span>
+
+	<img src="/cdn/media/img/audience-local.png">
+
+<div><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]--></div>
+</form>
+
+<script type="text/javascript">
+	jQuery(function ($)
+	{
+		var $form = $('#frm-tagsCloud-totalLocalSwitcher-form');
+		var uncheckedOptionId = $form.find('input[name="totalLocal"]:not(:checked)').attr('id');
+		var disableAutoSubmit = false;
+		var optionLocalId = 'frmform-totalLocal-1';
+		$form.find('input[name="totalLocal"]').live('click', function ()
+		{
+			var optionId = $(this).attr('id');
+			// continue only if click on unchecked option
+			if (optionId == uncheckedOptionId) {
+				if((optionId == optionLocalId) && disableAutoSubmit) { // user click on local and isn't logged in Marketo -> show Marketo before displaying of stats
+					sbModal.openModalWindow('totalLocalSwitcherMarketoForm');
+					return false; // for a while don't switch radio, because user can close modal window, 'return false' stops further event processing
+				}else {
+					$form.submit(); //submit form and reload page
+				}
+			}
+		});
+	});
+</script>
+		</article>
+ </div>
+
+		<h2 class="heading-nw heading-nw--2">Largest Audience</h2>
+	<div class="three-list top-fans-stats">
+		<div class="item">
+			
+			<a href="/statistics/facebook/pages/detail/177526890164-narendra-modi" class="acc-placeholder-img">
+				<h3 class="heading-nw heading-nw--3"><span class="show-tooltip"
+						  data-tooltip="Narendra Modi">Narendra Modi
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="https://scontent.xx.fbcdn.net/v/t1.0-1/12920234_10156879922780165_1562561844037541137_n.jpg?oh=ab7565255e8387d755d2d766b59e082e&amp;oe=5A78FB97"
+																		 alt=""><i></i></div>
+					<div class="img"><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/22282126_10159520841630165_2613562201102622398_n.jpg?oh=71397667ef98aa45c21a289e44e9fe48&amp;oe=5A78500F" alt="Narendra Modi"
+										  class="head-img facebook"></div>
+				</div>
+			</a>
+						<p class="small">Total fans</p>
+			<strong class="fans-count">42&nbsp;996&nbsp;433</strong>
+
+				<div class="local-fans">
+					<p class="small"><strong>Local fans</strong></p>
+					<strong class="fans-count">38&nbsp;233&nbsp;220</strong>
+				</div>
+		</div>
+		<div class="item">
+			
+			<a href="/statistics/facebook/pages/detail/326546224099154-virat-kohli" class="acc-placeholder-img">
+				<h3 class="heading-nw heading-nw--3"><span class="show-tooltip"
+						  data-tooltip="Virat Kohli">Virat Kohli
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/19424114_1420583248028774_2428790619482477385_n.jpg?oh=9808c625713d6ede09cb771385cde8b6&amp;oe=5A400BBB"
+																		 alt=""><i></i></div>
+					<div class="img"><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16299115_1278676598886107_7880450720206494149_n.jpg?oh=e597e84372174668615d143da8daa58f&amp;oe=5A6E98FE" alt="Virat Kohli"
+										  class="head-img facebook"></div>
+				</div>
+			</a>
+						<p class="small">Total fans</p>
+			<strong class="fans-count">35&nbsp;929&nbsp;301</strong>
+
+				<div class="local-fans">
+					<p class="small"><strong>Local fans</strong></p>
+					<strong class="fans-count">29&nbsp;988&nbsp;997</strong>
+				</div>
+		</div>
+		<div class="item">
+			
+			<a href="/statistics/facebook/pages/detail/190313434323691-indian-cricket-team" class="acc-placeholder-img">
+				<h3 class="heading-nw heading-nw--3"><span class="show-tooltip"
+						  data-tooltip="Indian Cricket Team">Indian Cricket Team
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/18893328_1500575906630764_6618619760065960894_n.jpg?oh=caf8f1781941ea2315998bf02d4f54ee&amp;oe=5A7F53AF"
+																		 alt=""><i></i></div>
+					<div class="img"><img src="https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/20232351_1550900868264934_8111351341416908381_o.jpg?oh=52ab99a1a7b2bba0a11a1e4e9e22bc46&amp;oe=5A746F25" alt="Indian Cricket Team"
+										  class="head-img facebook"></div>
+				</div>
+			</a>
+						<p class="small">Total fans</p>
+			<strong class="fans-count">28&nbsp;946&nbsp;582</strong>
+
+				<div class="local-fans">
+					<p class="small"><strong>Local fans</strong></p>
+					<strong class="fans-count">25&nbsp;012&nbsp;095</strong>
+				</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+<a class="sitewide-banner"
+   onclick="dataLayer.push({'event': 'ga.event', 'eventCategory': 'Banner', 'eventAction': 'URL', 'eventLabel': 'Are You a'});"
+   href="/social-media-content/quiz/facebook">
+	<div class="know-your-numbers-side">
+		<div class="vertical-align-middle">
+			<div class="in-vertical-align-middle">
+				<h2 class="sitewide-banner-title">Are You a <strong>Facebook Ads Master?</strong></h2>
+			</div>
+			<div class="in-vertical-align-middle">
+				<div class="btn btn-cta">Discover and WIN!</div>
+			</div>
+		</div>
+	</div>
+</a>		
+		<h2 class="heading-nw heading-nw--2">
+			<a href="/resources/reports/india/">India Social Marketing Reports</a>
+		</h2>
+
+		<ul class="three-list marketing-reports">
+			<li data-id="59b0eeb3f977f935e44dcbe1"
+												class="item">
+				<article>
+					<a href="/resources/reports/india/2017/august/">
+						<p>Social Marketing Report</p>
+						<h1>August 2017</h1>
+						<span class="arrow arrow-from-black arrow-to-orange"><i class="socialbakers-icons-before"
+																				data-icons-before="&#xe613;"></i></span>
+						<img src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/reports/premium/small/premium-regional-small-in.jpg">
+					</a>
+				</article>
+			</li>
+			<li data-id="59882c5df977f935e40dd7fa"
+												class="item">
+				<article>
+					<a href="/resources/reports/india/2017/july/">
+						<p>Social Marketing Report</p>
+						<h1>July 2017</h1>
+						<span class="arrow arrow-from-black arrow-to-orange"><i class="socialbakers-icons-before"
+																				data-icons-before="&#xe613;"></i></span>
+						<img src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/reports/premium/small/premium-regional-small-in.jpg">
+					</a>
+				</article>
+			</li>
+			<li data-id="595f6b17f977f935e4e62c61"
+												class="item">
+				<article>
+					<a href="/resources/reports/india/2017/june/">
+						<p>Social Marketing Report</p>
+						<h1>June 2017</h1>
+						<span class="arrow arrow-from-black arrow-to-orange"><i class="socialbakers-icons-before"
+																				data-icons-before="&#xe613;"></i></span>
+						<img src="https://cdn.socialbakers.com/www/static/build.3174083584/www/media/img/reports/premium/small/premium-regional-small-in.jpg">
+					</a>
+				</article>
+			</li>
+		</ul>
+
+
+
+	<section class="global-and-local">
+
+			<header>
+					
+					<h2 class="heading-nw heading-nw--2">Facebook Pages Stats in India</h2>
+			</header>
+<div class="brand-table-placeholder">
+	<table class="brand-table-list" cellpadding="0" cellspacing="0" border="0">
+			
+			<tr>
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						1
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/177526890164-narendra-modi?country=india"
+						   class="acc-placeholder-img"
+						   title="Narendra Modi (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/12920234_10156879922780165_1562561844037541137_n.jpg?oh=ab7565255e8387d755d2d766b59e082e&amp;oe=5A78FB97" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">1</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Narendra Modi
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<div class="table-legend">Local Fans</div>
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								38&nbsp;233&nbsp;220
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<div class="table-legend">Total Fans</div>
+						<span class="table-pie-name-mobile">Total Fans</span>
+							42&nbsp;996&nbsp;433
+					</div>
+				</td>
+			</tr>
+			
+			<tr class="odd">
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						2
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/326546224099154-virat-kohli?country=india"
+						   class="acc-placeholder-img"
+						   title="Virat Kohli (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/19424114_1420583248028774_2428790619482477385_n.jpg?oh=9808c625713d6ede09cb771385cde8b6&amp;oe=5A400BBB" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">2</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Virat Kohli
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								29&nbsp;988&nbsp;997
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							35&nbsp;929&nbsp;301
+					</div>
+				</td>
+			</tr>
+			
+			<tr>
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						3
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/190313434323691-indian-cricket-team?country=india"
+						   class="acc-placeholder-img"
+						   title="Indian Cricket Team (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/18893328_1500575906630764_6618619760065960894_n.jpg?oh=caf8f1781941ea2315998bf02d4f54ee&amp;oe=5A7F53AF" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">3</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Indian Cricket Team
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								25&nbsp;012&nbsp;095
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							28&nbsp;946&nbsp;582
+					</div>
+				</td>
+			</tr>
+			
+			<tr class="odd">
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						4
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/344128252278047-sachin-tendulkar?country=india"
+						   class="acc-placeholder-img"
+						   title="Sachin Tendulkar (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/19030689_1553039058053621_5235101527349098586_n.jpg?oh=3b3e14ee48f16c5633de9b62228d1d45&amp;oe=5A853E16" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">4</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Sachin Tendulkar
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								23&nbsp;531&nbsp;870
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							28&nbsp;624&nbsp;575
+					</div>
+				</td>
+			</tr>
+			
+			<tr>
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						5
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/167888423281096-yo-yo-honey-singh?country=india"
+						   class="acc-placeholder-img"
+						   title="Yo! Yo! Honey Singh (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/17626639_1324351260968134_3182740073399304783_n.jpg?oh=e759e9704170bd97cb1abdad6817cead&amp;oe=5A445D7D" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">5</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Yo! Yo! Honey Singh
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								21&nbsp;967&nbsp;499
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							30&nbsp;298&nbsp;077
+					</div>
+				</td>
+			</tr>
+			
+			<tr class="odd">
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						6
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/534383099925612-kapil-sharma?country=india"
+						   class="acc-placeholder-img"
+						   title="Kapil sharma (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/11218943_1039473349416582_2229040609512720823_n.jpg?oh=0aa941dabf82d0f939c815f2416d3e98&amp;oe=5A80E2E0" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">6</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Kapil sharma
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								20&nbsp;811&nbsp;071
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							26&nbsp;091&nbsp;639
+					</div>
+				</td>
+			</tr>
+			
+			<tr>
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						7
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/449082841792177-amitabh-bachchan?country=india"
+						   class="acc-placeholder-img"
+						   title="Amitabh Bachchan (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/18557475_1636680309699085_2359196621105849811_n.jpg?oh=13b868a06915c2c3a7deae4528cc1f60&amp;oe=5A753602" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">7</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Amitabh Bachchan
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								20&nbsp;225&nbsp;036
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							27&nbsp;435&nbsp;911
+					</div>
+				</td>
+			</tr>
+			
+			<tr class="odd">
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						8
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/11541726483-shreya-ghoshal?country=india"
+						   class="acc-placeholder-img"
+						   title="Shreya Ghoshal (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/22221491_10155763699871484_8741190198696708241_n.jpg?oh=a71be4273ffc44e7f2f7a604ee4d302a&amp;oe=5A74404C" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">8</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Shreya Ghoshal
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								20&nbsp;196&nbsp;352
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							28&nbsp;320&nbsp;802
+					</div>
+				</td>
+			</tr>
+			
+			<tr>
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						9
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/334873533267523-salman-khan?country=india"
+						   class="acc-placeholder-img"
+						   title="Salman Khan (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/c32.32.399.399/s200x200/46834_414668781954664_5980570_n.jpg?oh=32d32cad3b221ba199a557d47efd3119&amp;oe=5A81F87D" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">9</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Salman Khan
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								20&nbsp;098&nbsp;914
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							35&nbsp;531&nbsp;255
+					</div>
+				</td>
+			</tr>
+			
+			<tr class="odd">
+				<td class="item-count-td brand-table-first-nr">
+					<div class="item item-count">
+						10
+					</div>
+				</td>
+				<td class="name">
+					<div class="item">
+						<a href="/statistics/facebook/pages/detail/370020619738714-deepika-padukone?country=india"
+						   class="acc-placeholder-img"
+						   title="Deepika Padukone (Verified Page)">
+							<div class="placeholder-img">
+								<img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/21617753_1683551141718982_1664086170507425493_n.jpg?oh=c8b05ba36ed0e7603a735bf6a90783a4&amp;oe=5A73D15B" alt="">
+								<i></i>
+							</div>
+							<i class="item-count">10</i>
+							<h2 class="brand-table-list__heading">
+								<span class="show-name">
+									Deepika Padukone
+								</span>
+								<span class="show-country">
+									India
+								</span>
+							</h2>
+						</a>
+					</div>
+				</td>
+
+					<td>
+						<div class="item">
+							<span class="table-pie-name-mobile">Local Fans</span>
+							<strong>
+								19&nbsp;124&nbsp;297
+							</strong>
+						</div>
+					</td>
+
+				<td>
+					<div class="item">
+						<span class="table-pie-name-mobile">Total Fans</span>
+							34&nbsp;150&nbsp;478
+					</div>
+				</td>
+			</tr>
+		<tr class="replace-with-show-more">
+			<td colspan="5">	<div class="more-center-link">
+		<a rel="next" class="show-more-button btn btn-no-ico"
+			href="/statistics/facebook/pages/local/india/page-1-2/"
+			data-rewrite-url="/statistics/facebook/pages/local/india/page-1-2/"
+			data-next-page="2"
+			data-category="Facebook Pages"
+			data-next-page-url="/statistics/facebook/pages/local/india/page-2/?showMoreList-from=1&amp;do=platformList-renderAjax"
+		>
+			Show More Facebook Pages in India
+		</a>
+	</div>
+</td>
+		</tr>
+	</table>
+</div>
+
+	</section>
+
+	<script type="text/javascript">
+
+		$(document).ready(function ()
+		{
+
+			// switcher
+			require(['iswitcher'], function ()
+			{
+				$('.form-select-type .switcher').iSwitcher();
+			});
+
+
+			/* local fans disable popup info window */
+			$(".disabled-local-fans").click(function (event)
+			{
+				event.preventDefault();
+
+				var link = $(this);
+
+				// check if popup already exists
+				if(link.hasClass('popup_opened')) {
+					return;
+				}
+
+				// close another popups
+				if($('.popup_opened').size() > 0) {
+					$('.onpage-popup-container .close').trigger('click');
+				}
+
+				// close function (use closures)
+				var closePopup = function (popup, link)
+				{
+					link.removeClass(popup.attr('id'));
+					link.removeClass('popup_opened');
+					popup.fadeOut("fast", popup.remove());
+				}
+
+				// get parent object position
+				var parent_offset = link.offset();
+				var parent_height = link.parent().height();
+
+				// generate uniq popup id
+				var popup_id = "popup_n" + Math.floor(Math.random() * 100000001);
+				link.addClass(popup_id);
+				link.addClass('popup_opened');
+
+				// popup content - get it by AJAX atc.
+				var local_fans_popup = "<div class=\"onpage-popup-container local-fans\" id=\"" + popup_id + "\"><section class=\"popup\"><header><h3>New Local Ranking <span class=\"beta-tag\">BETA</span></h3><a href=\"#\" class=\"close\">Close</a></header><section class=\"content\"><p>We are glad that you would like to try out new local rankings - List of TOP 100 Brands/Pages based on their local fan count. This feature works currently only on selected country without \"Tags\" filter.</p><ul><li><a href=\"" + "\/blog\/1191-new-local-facebook-page-fan-counts-now-on-socialbakers" +"\">Read more about our new local rankings</a></li><li><a href=\"" + "\/statistics\/facebook\/pages\/local\/india\/" +"\" >Try New Local Ranking</a> <span class=\"note\">(will reset current filters)</span></li></ul></section><footer></footer></section></div>";
+
+				// add popup
+				$("body").append(local_fans_popup);
+
+				// get popup
+				var popup = $("#" + popup_id);
+
+				// set width
+				popup.css("width", "325px");
+
+				// set popup position
+				popup.css("left", parent_offset.left - (popup.width() / 2) + "px")
+						.css("top", parent_offset.top - (popup.height()) - parent_height + "px");
+
+				// show popup
+				popup.fadeIn("fast");
+
+				$(".close", popup).click(function (e)
+				{
+					e.preventDefault();
+					closePopup(popup, link);
+				});
+
+				// If an event gets to the body
+				$("body")
+						.click(function ()
+						{ //click outside
+							closePopup(popup, link);
+						})
+						.keyup(function (e)
+						{ //escape
+							if(e.keyCode == 27) {
+								closePopup(popup, link);
+							}
+						});
+				// Prevent events from getting pass .popup
+				popup.click(function (e)
+				{
+					e.stopPropagation(); //prevent close popup when click is inside
+				});
+				event.stopPropagation(); //prevent close popus in opening proces
+
+
+			});
+			/* END local fans disable popup info window */
+
+		});
+
+	</script>
+
+
+
+	<h2 class="heading-nw heading-nw--2">Glossary &amp; Metrics Overview</h2>
+
+	<ul class="four-list article-blue-list glossary-list">
+		<li class="item">
+			<article>
+				<h3 class="total-fan">Total<br>Fan Count</h3>
+				<p>The sum of all Fans of a particular Facebook Page</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h3 class="local-fans">Local<br>Fan Count</h3>
+				<p>The number of Fans of a monitored Facebook Page by location</p>
+			</article>
+		</li>
+	</ul>
+
+	<ul class="half-list inline-list article-list-more">
+		<li class="item">
+			<article>
+				<h2 class="heading-nw heading-nw--2">Current Facebook Statistics</h2>
+				<p class="p-nw">
+					Here you can find the <strong>statistics of the top All Pages pages
+						 from India
+ for the year 2017</strong>.
+					Take a look at pages that have the most <strong>‘Fans’ on Facebook</strong>.
+						<strong>The most ‘liked’ page</strong> is
+						<a href="/statistics/facebook/pages/detail/177526890164-narendra-modi">
+							Narendra Modi</a>.
+
+					If you would like to monitor a specific <strong>Facebook page</strong>, please use our <a
+							data-gaevent-products="link" href="/solutions/social-media-analytics">Facebook
+						monitoring tool</a>.
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2 class="heading-nw heading-nw--2">What is a Facebook Page?</h2>
+				<p class="p-nw">
+					A Facebook Page is a page you can create on Facebook for everything you find interesting or want to promote or represent – your business, your favorite car, your favorite food – whatever you want.
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2 class="heading-nw heading-nw--2">What is Facebook Monitoring?</h2>
+				<p class="p-nw">
+					Facebook monitoring is the use of Socialbakers Suite to process gathered data from Facebook.
+					This means posting, responding, and engaging with your Facebook community and then analyzing the
+					results and the results of others.
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2 class="heading-nw heading-nw--2">What is the Process of Facebook Monitoring?</h2>
+				<p class="p-nw">
+					Facebook monitoring is used for analysis of your Fan Pages and websites users’ online activities
+					through Facebook plug-ins. It is used like Google Analytics, but for Fan Pages.
+					<span class="hide">
+						You can monitor the growing size of your target audience, gain valuable insights into current audience characteristics, and harness this data to identify new target audiences for Facebook advertising campaigns. In addition, you can follow audience statistics in an easy-to-understand dashboard that correlates demographics, trends and top interests based on user activity across the Facebook community.
+					</span>
+					<span class="more-right-link">
+						<a href="#" class="more" data-expanded="See Less"><span>See More</span></a>
+					</span>
+				</p>
+
+			</article>
+		</li>
+
+	</ul>
+
+
+	
+	
+		
+
+	<ul class="half-list-big article-list-more">
+		<li class="item">
+			<article>
+				<h2 class="heading-nw heading-nw--2">Facebook Pages Monitoring</h2>
+
+					<p class="p-nw">
+						On this page you will find the currently monitored Facebook Pages. Note that we are listing all of the countries according to specific tags.
+						If you didn’t find what you were looking for, try using our search on the left to find a
+						specific Facebook Page. If you would like to gain valuable insights of these Facebook Pages
+						or others, please use our
+						<a data-gaevent-products="link" href="/suite">Facebook
+							monitoring tool</a>.
+					</p>
+
+			</article>
+		</li>
+	</ul>
+
+
+<script type="text/javascript">
+	$(document).ready(function ()
+	{
+		(function ()
+		{
+			var changeHandler = function (event)
+			{
+				$(event.target).closest('form').submit()
+			};
+			$("select").not('.disableAutoSubmit').change(changeHandler);
+		})();
+	});
+</script>
+
+
+
+
+				</section>
+					<i class="aside-hr"></i>
+
+					<i class="aside-list-fb aside-list-hr"></i>
+
+		</div>
+
+
+
+	</div>
+<section class="footer-menu-nw">
+
+    <div class="inner-nw">
+        <div class="footer-menu-nw__items">
+
+
+            <div class="footer-menu-nw__item">
+                <h2 class="p-nw "><a
+                            href="/suite"><strong>Platform</strong></a></h2>
+
+                                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/social-media-analytics">Measure & Benchmark</a>
+                </p>
+
+                                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/optimize-social-performance">Optimize Performance</a>
+                </p>
+
+                                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/data-integrations">Visualize  &amp; Analyze</a>
+                </p>
+
+                                <p class="p-nw p-nw--sm text-nw--muted ">
+                <a href="/suite/social-media-content">Create &amp; Publish Content</a>
+                </p>
+
+                                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/community-management">Nurture Communities</a>
+                </p>
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/agencies">For Agencies</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/try"
+                       onclick="sbMixpanel.utils.trackButtonClick(this.dataset.buttonLabel, 'Global Footer');"
+                       data-button-label="How to Try">How to Try</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/buy"
+                       onclick="sbMixpanel.utils.trackButtonClick(this.dataset.buttonLabel, 'Global Footer');"
+                       data-button-label="How to Buy">How to Buy</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/suite/buy/professional"
+                       onclick="sbMixpanel.utils.trackButtonClick(this.dataset.buttonLabel, 'Global Footer');"
+                       data-button-label="Buy Online Now">Buy Online Now</a>
+                </p>
+
+            </div>
+            <div class="footer-menu-nw__item">
+                <h2 class="p-nw">
+                    <a href="/free-social-tools"><strong>Social Media Tools</strong></a></h2>
+
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/free-social-tools/know-your-numbers">Facebook Benchmarking Tool</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    <a href="https://www.socialbakers.com/master-paid-content">Facebook Post Analysis Tool</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    <a href="https://www.socialbakers.com/free-tools/tracker/">Instagram Analytics Tool</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/free-social-tools/social-content-inspiration/">Social Content Inspiration Tool</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/free-social-tools/socially-devoted/">Social Customer Care Tool</a>
+                </p>
+
+            </div>
+
+            <div class="footer-menu-nw__item">
+                <h2 class="p-nw">
+                    <a href="/social-media-content"><strong>News &amp; Insights</strong></a></h2>
+
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/social-media-content/studies/">Studies</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/social-media-content/client-stories/">Success Stories</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    <a href="/social-media-content/social-media-minute/">Social Media Minute</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/blog/">Socialbakers Blog</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/company/for-press/releases/">Press Releases</a>
+                </p>
+
+            </div>
+            <div class="footer-menu-nw__item">
+                <h2 class="p-nw active">
+                    <a  href="/statistics/"><strong>Statistics</strong></a></h2>
+
+                <p class="p-nw p-nw--sm text-nw--muted active">
+                    <a href="/statistics/facebook/">Facebook Stats</a>
+                </p>
+
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/statistics/twitter/">Twitter Stats</a>
+                </p>
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/statistics/youtube/">YouTube Stats</a>
+                </p>
+
+                <p class="p-nw p-nw--sm text-nw--muted " >
+                    <a href="/resources/reports/">Regional Social Media Reports</a>
+                </p>
+
+            </div>
+            <div class="footer-menu-nw__item">
+                <h2 class="p-nw">
+                    <a href="/company/contact-us"><strong>Company</strong></a></h2>
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/company/about/leadership">Leadership</a>
+                </p>
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/company/media-and-press">Media &amp; Press</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    <a href="https://support.socialbakers.com">Online Education</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted" >
+                    <a href="/resources/wishlist/">Customers' WishList</a>
+                </p>
+
+                <p class="p-nw p-nw--sm text-nw--muted ">
+                    <a href="/company/careers">Careers</a>
+                </p>
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    <a href="https://www.socialbakers.com/events">Events</a>
+                </p>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+<hr class="hr-nw hidden-xs hidden-sm">
+<footer class="footer-nw">
+
+                
+
+
+    <div class="inner-nw">
+
+        <div class="footer-nw__items">
+            <div class="footer-nw__item">
+                <p class="p-nw p-nw--sm text-nw--muted">
+                    Socialbakers © 2017 All Rights Reserved
+                </p>
+            </div>
+
+            <div class="footer-nw__item">
+
+                    <span class="p-nw p-nw--sm text-nw--muted">
+                        <a class="footer-nw__link" href="/online-terms-and-conditions">Terms &amp; Conditions</a>
+                    </span>
+                <span class="p-nw p-nw--sm text-nw--muted">
+                        <a class="footer-nw__link"href="/privacy-policy">Privacy Policy</a>
+                    </span>
+                <span class="p-nw p-nw--sm text-nw--muted">
+                        <a class="footer-nw__link" href="/legal">Legal</a>
+                </span>
+                <span class="p-nw p-nw--sm text-nw--muted">
+                        <a class="footer-nw__link" href="/cookies">Cookies</a>
+                </span>
+                <span class="p-nw p-nw--sm text-nw--muted">
+                        <a class="footer-nw__link" href="http://status.socialbakers.com/" target="_blank"
+                           data-gaevent-products="footer-bar">Status Overview</a>
+                </span>
+
+            </div>
+            <div class="footer-nw__item">
+
+                    <a href="https://www.facebook.com/socialbakers" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/facebook-12.svg"
+                             alt="facebook">
+                    </a>
+
+                    <a href="https://twitter.com/socialbakers/" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/twitter-12.svg"
+                             alt="twitter">
+                    </a>
+
+                    <a href="https://www.youtube.com/user/socialbakers" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/youtube-12.svg"
+                             alt="youtube">
+                    </a>
+
+                    <a href="https://instagram.com/socialbakers/" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/instagram-12.svg"
+                             alt="instagram">
+                    </a>
+
+                    <a href="https://www.linkedin.com/company/socialbakers-com" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/linkedin-12.svg"
+                             alt="linkedin">
+                    </a>
+
+                    <a href="https://plus.google.com/115396124004851082723/" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/google-plus-12.svg"
+                             alt="gplus">
+                    </a>
+
+                    <a href="https://www.snapchat.com/add/socialbakers" target="_blank" class="footer-nw__icon">
+                        <img src="https://cdn.socialbakers.com/www/storage/www/pages/homepage/footers-icons/snapchat-12.svg"
+                             alt="snapchat">
+                    </a>
+
+            </div>
+
+            <div class="footer-nw__item hidden-lg hidden-sm">
+            </div>
+        </div>
+
+    </div>
+
+
+</footer><div class="panel-overlay"></div>
+
+<div class="lightbox-overlay"></div>
+
+<div id="marketo-login-meta" data-redirect-url="https://www.socialbakers.com/statistics/facebook/pages/local/india/"></div>
+
+	<script type="text/javascript">
+		var closeLightbox = function ()
+		{
+			sb.utils.lightboxclose();
+		}
+	</script>
+	<div class="lightbox lightbox-reports form-local-countries">
+		<a href="" class="close"></a>
+		<div class="in-lightbox-reports">
+			<h1>Complete the form to see more data!</h1>
+<form id="mktoForm_1843"></form>
+<script type="text/javascript">
+	var initMarketoFormScripts = function ()
+	{
+		var marketoFormId = "1843";
+
+		var isMobile = $("body").hasClass("mobile");
+		var showThankYou = false;
+		var customLocationHash = null;
+		var customRedirect = true;
+		var jsFunctionOnSuccess = "closeLightbox";
+		var onSuccess = window[jsFunctionOnSuccess] || null;
+		var marketoEventAction = null;
+		var marketoEventCategory = null;
+		var marketoEventLabel = null;
+		var marketoEvent = null;
+
+		require(['load!lib/util/docCookies', 'load!lib/marketo/marketo-form'], function (docCookies, marketoFormUtil)
+		{
+			// clone object
+			marketoFormUtil = $.extend({}, marketoFormUtil);
+
+
+			marketoFormUtil.doCommonLoadForm("//app-lon03.marketo.com", "051-PVI-353", marketoFormId, function (form)
+			{
+				var currentMarketoData = { };
+
+				if(marketoEvent == "Agency pop-up" || marketoEvent == 'Media') {
+					$(".open-mobile-study-form").remove();
+				} else {
+					$(".open-mobile-form").remove();
+				}
+
+				docCookies.removeItem("lc_cs_fm");
+				var expireAt = new Date();
+				expireAt.setMonth(expireAt.getMonth() + 1);
+				docCookies.setItem("lc_cs_fm", "t", expireAt, '/', ".socialbakers.com");
+
+				var sentMarketoData = JSON.parse("{}");
+
+				$.each(sentMarketoData, function(key, value) {
+					currentMarketoData[key] = value;
+				});
+
+				var vals = form.getValues();
+
+				$.each(vals, function(key, value) {
+					currentMarketoData[key] = value;
+				});
+
+				docCookies.setItem("marketoFormData", Base64.encode(JSON.stringify(currentMarketoData)), 1539293571, '/', ".socialbakers.com");
+				var onSuccess = window[jsFunctionOnSuccess] || null;
+
+				sbMixpanel.utils.trackFillMarketoForm(marketoFormId, vals);
+
+				if(typeof( onSuccess ) == "function") {
+					onSuccess(vals);
+				}
+
+
+				var redirectUrl = $('#marketo-login-meta').attr('data-redirect-url');
+				if(typeof( redirectUrl ) != 'undefined') {
+					window.location.href = redirectUrl;
+				} else {
+					location.reload(true);
+				}
+
+			}, showThankYou, customLocationHash);
+
+		});
+
+	};
+
+	// Check if marketo-form from domain marketo.com isn't blocked with adBlock
+	requirejs.onError = function (err)
+	{
+		if($.isArray(err.requireModules) && $.inArray(err.requireModules, 'marketo-form')) {
+			dataLayer.push({'event': 'ga.event', 'eventCategory': 'MKTO', 'eventAction': 'Not Loaded'});
+		}
+	};
+	initMarketoFormScripts();
+</script>				</div>
+	</div>
+
+
+	<div id="front-suggester" class="lightbox lightbox-add-page">
+		<a href="" class="close"></a>
+		<div class="in-lightbox-add-page suggester-wrapper">
+			<div class="loader small" style="display: none;"></div>
+<div class="search-box-suggester" id="search-box-suggester" >
+	<h1 class="heading-nw">Monitor New Page</h1>
+	<div class='error-message'></div>
+	<form method="get" action="/suggester?do=tagsSuggestion-tagsSuggestion" data-localization="{&quot;suggestPage&quot;:{&quot;facebook&quot;:&quot;Suggest Page&quot;,&quot;youtube&quot;:&quot;Suggest Channel&quot;,&quot;twitter&quot;:&quot;Suggest Profile&quot;},&quot;profilePage&quot;:&quot;Edit tags&quot;,&quot;networkFanTitles&quot;:{&quot;twitter&quot;:&quot;Followers&quot;,&quot;facebook&quot;:&quot;Fans&quot;,&quot;youtube&quot;:&quot;Subscribers&quot;},&quot;suggesterLink&quot;:&quot;#&quot;,&quot;networkAccountTitles&quot;:{&quot;twitter&quot;:&quot;Profiles&quot;,&quot;facebook&quot;:&quot;Pages&quot;,&quot;youtube&quot;:&quot;Channels&quot;}}">
+		<div class="autocomplete-box">
+			<label for="searchbox" class="search">
+				<input name="query" placeholder="Search by name or URL ..." autocomplete="off">
+							</label>
+						<div class="suggester-search-panel">
+				<div class="in-search-panel">
+					<div class="loader small" style="display: none;"></div>
+					<ul class="acc-list" style="visibility: visible;"></ul>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>		</div>
+	</div>
+
+
+
+<div id="snippet--modal">	<div class="modal-wrapper " data-modal-window-content="">
+		<div class="modal "
+		>
+			<a href="#" class="close-btn"></a>
+			<div class="inner-modal ">
+			</div>
+		</div>
+		<div class="overlay"></div>
+	</div>
+</div></div>
+</body>
+</html>
